@@ -37,11 +37,82 @@ h1{
 
     color: white;
     background-color: deeppink;
-    padding: 10px;
+    padding: 12px 20px;
     border: none;
     border-radius: 3px;
 }
 
 p{
    color: rgb(77, 74, 74);
+}
+
+
+.section2-desc{
+text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+}
+
+.section2-pictures{
+    display: flex;
+   justify-content: center;
+   gap: 10px;
+}
+
+.section2-img1{
+ padding: 50px;
+    background-color: rgb(240, 216, 219);
+    height: 270px;
+    width: 230px;
+border-top-left-radius: 150px;
+
+border-top-right-radius: 150px;
+
+}
+
+.section2-img2{
+    padding: 50px;
+       background-color: rgb(216, 240, 240);
+       height: 270px;
+       text-align: center;
+   width: 230px;
+       
+   border-top-left-radius: 150px;
+
+   border-top-right-radius: 150px;
+       
+   
+   }
+
+
+   .section2-img3{
+    padding: 50px;
+       background-color: rgb(213, 255, 135);
+       height: 270px;
+
+   width: 230px;
+   border-top-left-radius: 150px;
+
+   border-top-right-radius: 150px;
+
+   }
+.section2-pictures img{
+    height: 300px;
+}
+
+.section2-img-name{
+width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    gap: 120px;
+    margin-top: 20px;
+    
+}
+.section2-img-name a{
+
+    color: black;
 }
