@@ -132,3 +132,27 @@ width: 900px;
     text-align:center;
     
 }
+span{
+    color: deeppink;
+}
+.section4{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: rgb(253, 221, 226) ;
+    padding: 100px;
+    height: 200px;
+}
+
+
+.section4-desc{
+    width: 400px;
+   margin: auto;
+   text-align:center;
+   margin-top: 70px;
+}
+
+.section4-img img{
+    height:260px;
+    margin-right: 140px;
+}
