@@ -156,3 +156,19 @@ span{
     height:260px;
     margin-right: 140px;
 }
+.section5-desc{
+    width: 400px;
+    margin: auto;
+    text-align:center;
+    margin-top: 70px;
+}
+
+.section5-pictures{
+    display: flex;
+    width: 900px;
+    gap: 15px;
+    margin: auto;
+}
+.section5-pictures img{
+    height: 260px;
+}
