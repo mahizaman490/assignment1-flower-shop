@@ -14,7 +14,7 @@ padding-top:70px;
 
 header{
 height:550px;
-    background-color: rgb(253, 221, 226);
+    background-color: rgb(255, 238, 241);
 }
 
 
@@ -39,7 +39,7 @@ h1{
     background-color: deeppink;
     padding: 12px 20px;
     border: none;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
 p{
@@ -64,7 +64,7 @@ text-align: center;
 
 .section2-img1{
  padding: 50px;
-    background-color: rgb(240, 216, 219);
+    background-color: rgb(255, 238, 241);
     height: 270px;
     width: 230px;
 border-top-left-radius: 150px;
@@ -121,7 +121,7 @@ width: 900px;
 .section3{
     display: flex;
     gap: 40px;
-    background-color: rgb(248, 238, 238);
+    background-color:  rgb(255, 238, 241);
     width: 900px;
     justify-content: center;
     margin: auto;
@@ -182,6 +182,7 @@ width: 400px;
 margin: auto;
 padding: 100px;
 text-align: center;
+
 }
 footer{
     background-color: rgb(0, 0, 0);
@@ -190,9 +191,41 @@ footer{
 }
 .para{
     color: white;
+   
 }
 
 .para2{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 12px;
+}
+
+.section6{
+    background-image: url('Flower\ Asset/Rectangle 9.png');
+    width: 940px;
+    margin: auto;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 225px;
+    margin-bottom: 100px;
+}
+
+input{
+
+    height:38px;
+    width:400px;
+    border: none;
+
+}
+
+.small{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+.section6-contents{
+    width:600px;
+    text-align: center;
+    margin: auto;
+   padding: 100px;
 }
