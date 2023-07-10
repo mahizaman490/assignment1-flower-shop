@@ -172,3 +172,27 @@ span{
 .section5-pictures img{
     height: 260px;
 }
+
+.section6{
+    width:900px;
+margin: auto;
+}
+.footer-desc{
+width: 400px;
+margin: auto;
+padding: 100px;
+text-align: center;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 300px;
+}
+.para{
+    color: white;
+}
+
+.para2{
+    font-weight: bold;
+    font-size: 15px;
+}
