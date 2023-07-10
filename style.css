@@ -116,3 +116,19 @@ width: 900px;
 
     color: black;
 }
+
+
+.section3{
+    display: flex;
+    gap: 40px;
+    background-color: rgb(248, 238, 238);
+    width: 900px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 70px;
+    padding: 50px;
+}
+ .section3 .section3-logos{
+    text-align:center;
+    
+}
