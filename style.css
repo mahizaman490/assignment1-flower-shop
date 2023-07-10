@@ -229,3 +229,12 @@ input{
     margin: auto;
    padding: 100px;
 }
+.learn-more{
+
+    width: 900px;
+    margin: auto;
+    margin-bottom: 100px;
+   color: rgb(224, 64, 118);
+   font-weight: bolder;
+}
+
